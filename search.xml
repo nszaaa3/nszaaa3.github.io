@@ -2,6 +2,79 @@
 <search> 
   
   
+    
+    <entry>
+      <title>Docker-MySQL</title>
+      <link href="/2022/02/22/Docker-MySQL/"/>
+      <url>/2022/02/22/Docker-MySQL/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> Docker </tag>
+            
+            <tag> MySQL </tag>
+            
+            <tag> Database </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Debian系Linux安装Docker引擎</title>
+      <link href="/2022/02/22/Debian%E7%B3%BBLinux%E5%AE%89%E8%A3%85Docker%E5%BC%95%E6%93%8E/"/>
+      <url>/2022/02/22/Debian%E7%B3%BBLinux%E5%AE%89%E8%A3%85Docker%E5%BC%95%E6%93%8E/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      <categories>
+          
+          <category> docker </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Docker </tag>
+            
+            <tag> Debian </tag>
+            
+            <tag> Linux </tag>
+            
+            <tag> Ubuntu </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>酒话</title>
+      <link href="/2022/02/22/%E9%85%92%E8%AF%9D/"/>
+      <url>/2022/02/22/%E9%85%92%E8%AF%9D/</url>
+      
+        <content type="html"><![CDATA[<p>嗝儿，hell world!</p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> Hell World </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
   
   
 </search>
